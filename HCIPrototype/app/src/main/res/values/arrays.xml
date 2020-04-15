@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_array">
+        <item>Off</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="min_array">
+        <item>Min Off</item>
+        <item>\uff1c 0℃</item>
+        <item>\uff1c 1℃</item>
+        <item>\uff1c 5℃</item>
+        <item>\uff1c 10℃</item>
+    </string-array>
+    <string-array name="max_array">
+        <item>Max Off</item>
+        <item>\uff1e 15℃</item>
+        <item>\uff1e 20℃</item>
+        <item>\uff1e 25℃</item>
+        <item>\uff1e 30℃</item>
+    </string-array>
+</resources>

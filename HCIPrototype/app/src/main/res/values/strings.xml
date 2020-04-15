@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HCIPrototype</string>
+    <string name="check_setting">Checking Settings\n\nPlease Wait</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="rain_title">Risk Of Rain</string>
+    <string name="holder_text">Temp val</string>
+    <string name="alert">Alert</string>
+    <string name="storm_title">Risk Of Storms</string>
+    <string name="snow_title">Risk Of Snow</string>
+    <string name="temperature_title">Temperature</string>
+    <string name="settings_button">Settings</string>
+    <string name="account_button">Account</string>
+    <string name="app_title">Easy Weather Alerts</string>
+    <string name="max_title">Max:</string>
+    <string name="min_title">Min:</string>
+    <string name="settings_title">Settings</string>
+</resources>
